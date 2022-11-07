@@ -1,3 +1,3 @@
 # Magento
 
-(Queue)(queue.md)
+(Queue)[queue.md]
